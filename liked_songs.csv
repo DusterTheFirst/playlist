@@ -202,8 +202,8 @@ added at,release date,name,album,artist(s),id
 2020-07-31T14:20:28+00:00,2018-05-04,War,War,grandson,spotify:track:1IqYyJ37a3gUr0NC2vOD2b
 2020-07-26T19:19:23+00:00,2012-09-11,Variations on a Cloud,Variations on a Cloud,Miracle Musical,spotify:track:0pJbjjbnIfPWhwApvDjEVK
 2020-07-26T19:13:48+00:00,2017-06-23,Lines That Burn,Lines That Burn,Tilian,spotify:track:7jvMuOdXdqsxiEVeuRNADS
-2020-07-26T19:05:52+00:00,2008-12-08,I Can Get Back Up Now,"So Young, so Insane","You, Me, And Everyone We Know",spotify:track:4fwlKGuScnVzRdvACVXJC7
 2020-07-26T19:05:52+00:00,2012-09-18,Easy Way (Acapella),Summer Nights,For The Foxes,spotify:track:0meGZvMCOUoZBsYcsLcTRX
+2020-07-26T19:05:52+00:00,2008-12-08,I Can Get Back Up Now,"So Young, so Insane","You, Me, And Everyone We Know",spotify:track:4fwlKGuScnVzRdvACVXJC7
 2020-07-08T17:44:26+00:00,2015-09-15,Queensway,Queensway,Coral Bones,spotify:track:2ZEcbXJgLAIpjVEtTr7xa1
 2020-06-28T21:16:46+00:00,2012-09-18,Why Bother?,Engine Room Recordings Presents: A Tribute to Pinkerton,Rob Cantor,spotify:track:1lAKIqmpgpDeCq3kPpEkRT
 2020-06-26T03:25:31+00:00,2014-04-14,Old Bike,Not a Trampoline,Rob Cantor,spotify:track:5CYRlFn4H6VXwMcPCqB6O0
@@ -460,8 +460,8 @@ added at,release date,name,album,artist(s),id
 2019-10-17T02:17:09+00:00,2018-02-23,Asymptotic,Singles,Louie Zong,spotify:track:4GUVnRnXP4DDGRPoperoAV
 2019-10-17T02:13:37+00:00,2018-06-28,Thumbnail,Thumbnail,Louie Zong+Brian David Gilbert,spotify:track:315nF0bGYJxNcSI6S3Y8aN
 2019-10-17T02:10:32+00:00,2018-10-23,Ghost Choir,Ghost Choir,Louie Zong,spotify:track:5d5vbFsYB7EebhVgafqvKS
-2019-10-17T02:05:15+00:00,2019-08-09,Steak,Fries,Louie Zong,spotify:track:7DuL9b7WEpZJb8fvQii930
 2019-10-17T02:05:15+00:00,2019-08-09,Smiley,Fries,Louie Zong,spotify:track:1tUMzQu5erH6DbZYXwU12E
+2019-10-17T02:05:15+00:00,2019-08-09,Steak,Fries,Louie Zong,spotify:track:7DuL9b7WEpZJb8fvQii930
 2019-10-17T02:05:14+00:00,2019-08-09,Sweet Potato,Fries,Louie Zong,spotify:track:2OoiFwFheDaDeRWwIyfftu
 2019-10-17T02:01:44+00:00,2019-08-09,Waffle,Fries,Louie Zong,spotify:track:1Nn5m9clYoYcuCHNxrAt73
 2019-10-17T02:00:36+00:00,2019-08-09,Curly,Fries,Louie Zong,spotify:track:0L473Zyh7mURyNDcowmKuH
@@ -594,12 +594,12 @@ added at,release date,name,album,artist(s),id
 2019-03-07T01:21:22+00:00,2015-07-10,Bare Hands,Nika,Deal Casino,spotify:track:1bZpYr83rE4dO7CSP7OItN
 2019-03-04T02:40:38+00:00,2015-01-13,Teenage Love Song,Freaking Out,RFA,spotify:track:5HCVsMnVz5Wlhy6QWismUd
 2019-02-27T00:43:33+00:00,2018-11-09,Algorithm,Simulation Theory (Super Deluxe),Muse,spotify:track:7f0vVL3xi4i78Rv5Ptn2s1
-2019-02-26T23:49:52+00:00,2018-11-09,The Dark Side,Simulation Theory (Super Deluxe),Muse,spotify:track:0dMYPDqcI4ca4cjqlmp9mE
+2019-02-26T23:49:52+00:00,2018-11-09,Blockades,Simulation Theory (Super Deluxe),Muse,spotify:track:7pdG3g13RKtrCmKwnSDeO4
+2019-02-26T23:49:52+00:00,2018-11-09,Get up and Fight,Simulation Theory (Super Deluxe),Muse,spotify:track:7lvZfms8Bh8QnThBmFTD7a
 2019-02-26T23:49:52+00:00,2018-11-09,Pressure,Simulation Theory (Super Deluxe),Muse,spotify:track:3eSyMBd7ERw68NVB3jlRmW
 2019-02-26T23:49:52+00:00,2018-11-09,Something Human,Simulation Theory (Super Deluxe),Muse,spotify:track:1esX5rtwwssnsEQNQk0HGg
-2019-02-26T23:49:52+00:00,2018-11-09,Get up and Fight,Simulation Theory (Super Deluxe),Muse,spotify:track:7lvZfms8Bh8QnThBmFTD7a
+2019-02-26T23:49:52+00:00,2018-11-09,The Dark Side,Simulation Theory (Super Deluxe),Muse,spotify:track:0dMYPDqcI4ca4cjqlmp9mE
 2019-02-26T23:49:52+00:00,2018-11-09,The Void,Simulation Theory (Super Deluxe),Muse,spotify:track:5vV3MXW9acnFuYeYO08CHC
-2019-02-26T23:49:52+00:00,2018-11-09,Blockades,Simulation Theory (Super Deluxe),Muse,spotify:track:7pdG3g13RKtrCmKwnSDeO4
 2019-02-26T23:47:48+00:00,2009-09-10,Uprising,The Resistance,Muse,spotify:track:4VqPOruhp5EdPBeR92t6lQ
 2019-02-26T00:11:26+00:00,2018-11-09,Thought Contagion,Simulation Theory (Super Deluxe),Muse,spotify:track:57lCa95tmjJ8EYdNTex8Kk
 2019-02-25T23:21:14+00:00,2018-11-09,Dig Down,Simulation Theory (Super Deluxe),Muse,spotify:track:0RILico3Gbl5jxSNg3zLrJ
@@ -643,8 +643,8 @@ added at,release date,name,album,artist(s),id
 2019-02-05T00:41:22+00:00,2014-02-04,A Month of Sunshine,A Month of Sunshine,Fever Dreamer,spotify:track:0IL6f09p8XLOuSi22wQs8A
 2019-02-05T00:41:22+00:00,2014-08-16,Pull Me Closer,Static Waves EP,Static Waves,spotify:track:37LHRN0Cj8sK3qxz6wZmf2
 2019-02-05T00:41:21+00:00,2016-03-18,Me and You,Me and You,The Modern Glitch,spotify:track:5B9V61n5EpfBde7zjAYy07
-2019-02-05T00:41:20+00:00,2016-03-30,Tryouts,Tryouts,90 Pounds of Pete,spotify:track:2aKyDYj0a6yThlgtoWEBxF
 2019-02-05T00:41:20+00:00,2015-03-10,If Only,Moodswings,Ships Have Sailed,spotify:track:10OjtySLPWbVHJRB71MjJi
+2019-02-05T00:41:20+00:00,2016-03-30,Tryouts,Tryouts,90 Pounds of Pete,spotify:track:2aKyDYj0a6yThlgtoWEBxF
 2019-02-05T00:41:19+00:00,2015-02-19,Old House,Old House,Armors,spotify:track:75sovBwbdAlmbqupbm9b5y
 2019-02-05T00:41:18+00:00,2012-08-14,Tickle,What You Want [If You Want],Eyes Lips Eyes,spotify:track:74BNcrrfzMTh66O8KMpsKk
 2019-02-05T00:17:45+00:00,2015-11-13,Ghost Town,Ghost Town,Whosah,spotify:track:5oGAVeMsMPeUu3nAa2bQ4e
@@ -657,8 +657,8 @@ added at,release date,name,album,artist(s),id
 2019-02-04T23:56:13+00:00,2015-06-30,Outcast,Outcast,Mainland,spotify:track:0vN3ukgmpzsDy5LJWSLctt
 2019-02-04T23:47:48+00:00,2015-01-01,Glass Heart - Demo,Magic Giant,MAGIC GIANT,spotify:track:6fZFmODHMhu3efn5xjBjPA
 2019-02-04T23:44:31+00:00,2015-09-21,California,California,Paul Conrad,spotify:track:6UdFBqkgJwKPdO0Gcdg7kK
-2019-02-04T23:43:33+00:00,2012-07-01,Beach Bones (feat. Ryan Ross),Beach Bones (feat. Ryan Ross),More Amor,spotify:track:7DkHzcJfyBEKsjKTUwB0LU
 2019-02-04T23:43:33+00:00,2016-01-01,Absolutely,Need Your Light,Ra Ra Riot,spotify:track:5Xr3kB15eKqENAcghimU2Y
+2019-02-04T23:43:33+00:00,2012-07-01,Beach Bones (feat. Ryan Ross),Beach Bones (feat. Ryan Ross),More Amor,spotify:track:7DkHzcJfyBEKsjKTUwB0LU
 2019-02-04T23:33:48+00:00,2014-03-23,Digging Holes,Raglans,Raglans,spotify:track:6o9mzmkuq9FOLGeMdFLkA9
 2019-02-04T23:31:07+00:00,2013-11-15,Hold Up Girl,Twenty One Rooms,NGHBRS,spotify:track:2KLDpPfYxbYTu1rZs0A9S9
 2019-02-04T23:26:15+00:00,2015-06-02,Rolling Down The Hill,I'm Glad I'm Not Me,Born Cages,spotify:track:3mbfcLLAgmZEaCKx5vJCPE
@@ -674,9 +674,9 @@ added at,release date,name,album,artist(s),id
 2019-01-30T20:53:38+00:00,2013-11-24,Rising Sand,Youthemism,Coral Bones,spotify:track:5dTRdpK9JDRVaMDeIyexuY
 2019-01-30T20:50:15+00:00,2014,Sheep In Wolves Clothes,Gold Fever,little hurricane,spotify:track:3Zq9gmZFVKoeWt5LXv45q6
 2019-01-29T21:43:28+00:00,2019-01-24,Everybody Wants to Rule the World,Weezer (Teal Album),Weezer,spotify:track:3gEoKDn0uhb9qqLwC16tly
-2019-01-29T21:43:28+00:00,2019-01-24,Take on Me,Weezer (Teal Album),Weezer,spotify:track:1ZB2qWsheGabSEYvBYxjKn
 2019-01-29T21:43:28+00:00,2019-01-24,Happy Together,Weezer (Teal Album),Weezer,spotify:track:3KxOYNt66Hj42HzO7ao0CV
 2019-01-29T21:43:28+00:00,2019-01-24,Mr. Blue Sky,Weezer (Teal Album),Weezer,spotify:track:7ptKh9V0xt8CjLn0Z7ZgYd
+2019-01-29T21:43:28+00:00,2019-01-24,Take on Me,Weezer (Teal Album),Weezer,spotify:track:1ZB2qWsheGabSEYvBYxjKn
 2019-01-26T19:21:55+00:00,2013-09-20,Everybody's Dancing and I Want to Die,Old Souls,Deaf Havana,spotify:track:6gGUwCLK5MLPIRJPrPRA41
 2019-01-26T19:21:54+00:00,2007-09-29,How Far We've Come,Exile on Mainstream (International),Matchbox Twenty,spotify:track:3k2Zv2luPZHpxfFjGpr4Mm
 2019-01-26T19:21:54+00:00,2009-04-25,Love At First Sight,Violent Things,The Brobecks,spotify:track:4meLiXR44Kg4MdXoVSO58C
@@ -686,8 +686,8 @@ added at,release date,name,album,artist(s),id
 2019-01-26T19:03:27+00:00,2014-10-07,Am I Alive,Absent Sounds,From Indian Lakes,spotify:track:5dvHlfjmu4AaxlTbUYQabN
 2019-01-26T19:03:26+00:00,2011,You Told the Drunls I Knew Karate,Propeller Versus Wings,Zoey Van Goey,spotify:track:0cSndRbNFjicNcfSzgBrQ8
 2019-01-26T18:52:06+00:00,2012-10-29,Cultured Man,Ancient Mars,The Zolas,spotify:track:6NJFnjvLtMedZRVdrQ7QyT
-2019-01-26T18:47:05+00:00,2013-11-29,Don't Ask Me Why,Don't Ask Me Why,Great Caesar,spotify:track:06QdJtEtHOckzHhq5EbTfo
 2019-01-26T18:47:05+00:00,2013-04-22,Couch Potato,"Good Morning, Sunshine",Shortstraw,spotify:track:5BsYcBRgqetNrAKpQzpHrK
+2019-01-26T18:47:05+00:00,2013-11-29,Don't Ask Me Why,Don't Ask Me Why,Great Caesar,spotify:track:06QdJtEtHOckzHhq5EbTfo
 2019-01-26T18:39:33+00:00,2013-11-19,Mr. Redundant,Seven + Mary,Rainbow Kitten Surprise,spotify:track:2yPiN3T8Z0YE4uovhPyaB3
 2019-01-26T18:35:35+00:00,2015-07-01,Roman Candle,Roman Candle,Ottawa,spotify:track:3EMCnjXrS6HCsyN5cTZOaS
 2019-01-26T18:35:33+00:00,2013-03-26,Perspective,Portrait - EP,Polite Fiction,spotify:track:1z9t09cCzfOz9R8UYjirt8
